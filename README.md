@@ -1,7 +1,7 @@
 # calculator
 
 Hello, Everyone
-Today, I'll show my code of calcutor.
+Today, I'll show my code of calculator.
 It is very exciting and interesting to make this.
 
 So, my code is
@@ -104,4 +104,4 @@ return 0;
 ```
 
 
-Thanks for watching that.
+Don't Forget to star if you love my work. You can use it anywhere if you want.
