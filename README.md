@@ -6,7 +6,8 @@ It is very exciting and interesting to make this.
 
 So, my code is
 
-```#include<bits/stdc++.h>
+```
+#include<bits/stdc++.h>
 #include<stdlib.h>
 using namespace std;
 
